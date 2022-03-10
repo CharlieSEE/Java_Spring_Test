@@ -1,0 +1,4 @@
+GET http://localhost:8080/greeting?name=woda
+Accept: application/json
+
+###
